@@ -1,6 +1,6 @@
 # assembly101-action-recognition
 This repository contains scripts and models for the Action Recognition benchmark of Assembly101.
-
+edited
 If you use our dataset, kindly cite:
 ```
 @article{sener2022assembly101,
