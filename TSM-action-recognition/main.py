@@ -17,7 +17,7 @@ from ops import dataset_config
 from ops.utils import AverageMeter, accuracy
 from ops.temporal_shift import make_temporal_pool
 
-# from tensorboardX import SummaryWriter
+from tensorboardX import SummaryWriter
 
 best_prec1 = 0
 
